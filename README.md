@@ -48,7 +48,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/social_media_app.git
+git clone https://github.com/piyush-451/Reactjs-Snapgram.git
 cd social_media_app
 ```
 
